@@ -3,7 +3,7 @@
 
 -📚 Estudando Java Orientado A Objetos.
 
--📚 Estudando Bootcamp Spring React 3.0.
+-📕 Estudando Bootcamp Spring React 3.0.
 
 <div>
   <a href="https://github.com/DionatanGomes">
